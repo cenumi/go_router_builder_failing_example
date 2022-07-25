@@ -1,16 +1,22 @@
 # go_router_builder_failing_example
 
-A new Flutter project.
+❯ flutter pub run build_runner build
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 190ms
 
-## Getting Started
+[INFO] Initializing inputs
+[INFO] Reading cached asset graph...
+[INFO] Reading cached asset graph completed, took 29ms
 
-This project is a starting point for a Flutter application.
+[INFO] Checking for updates since last build...
+[INFO] Checking for updates since last build completed, took 427ms
 
-A few resources to get you started if this is your first Flutter project:
+[INFO] Running build...
+[INFO] 1.0s elapsed, 0/1 actions completed.
+[INFO] 5.0s elapsed, 0/1 actions completed.
+[INFO] Running build completed, took 5.0s
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[INFO] Caching finalized dependency graph...
+[INFO] Caching finalized dependency graph completed, took 23ms
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[INFO] Succeeded after 5.1s with 0 outputs (2 actions)
